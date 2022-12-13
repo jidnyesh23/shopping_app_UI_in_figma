@@ -1,2 +1,2 @@
-# shopping_app_UI_in_figma
-Shopping_app_UI_in_figma
+# Shopping_app_ios__UI_in_figma
+Shopping_app_ios__UI_in_figma
